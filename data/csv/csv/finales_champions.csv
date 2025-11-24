@@ -1,0 +1,35 @@
+season_year,team_winner,team_runner_up,score,goleadores_winner,goleadores_runner_up,min_winner,min_runner_up,stadium,city,country
+1992,Barcelona,Sampdoria,1-0,"Ronald Koeman","",112,"","Wembley Stadium",London,England
+1993,Marseille,Milan,1-0,"Basile Boli","",43,"","Olympiastadion",Munich,Germany
+1994,Milan,Barcelona,4-0,"Massaro; Massaro; Savićević; Desailly","",22;45;47;58,"","Olympic Stadium",Athens,Greece
+1995,Ajax,Milan,1-0,"Patrick Kluivert","",85,"","Ernst-Happel-Stadion",Vienna,Austria
+1996,Juventus,Ajax,"1-1 (4-2 pens)","Ravanelli","Litmanen",13,41,"Stadio Olimpico",Rome,Italy
+1997,Borussia Dortmund,Juventus,3-1,"Riedle; Riedle; Ricken","Del Piero",29;34;71,65,"Olympiastadion",Munich,Germany
+1998,Real Madrid,Juventus,1-0,"Pedja Mijatović","",66,"","Amsterdam Arena",Amsterdam,Netherlands
+1999,Manchester United,Bayern Munich,2-1,"Sheringham; Solskjær","Basler",91;93,6,"Camp Nou",Barcelona,Spain
+2000,Real Madrid,Valencia,3-0,"Morientes; McManaman; Raúl","",39;67;75,"","Stade de France",Saint-Denis,France
+2001,Bayern Munich,Valencia,"1-1 (5-4 pens)","Effenberg","Mendieta",50,3,"San Siro",Milan,Italy
+2002,Real Madrid,Bayer Leverkusen,2-1,"Raúl; Zidane","Lúcio",8;45,13,"Hampden Park",Glasgow,Scotland
+2003,Milan,Juventus,"0-0 (3-2 pens)","","","","","Old Trafford",Manchester,England
+2004,Porto,Monaco,3-0,"Carlos Alberto; Deco; Alenichev","",39;71;75,"","Arena AufSchalke",Gelsenkirchen,Germany
+2005,Liverpool,Milan,"3-3 (3-2 pens)","Gerrard; Smicer; Alonso","Maldini; Crespo; Crespo",54;56;60,1;39;44,"Atatürk Olympic Stadium",Istanbul,Turkey
+2006,Barcelona,Arsenal,2-1,"Eto'o; Belletti","Campbell",76;81,37,"Stade de France",Saint-Denis,France
+2007,Milan,Liverpool,2-1,"Inzaghi; Inzaghi","Kuyt",45;82,89,"Olympic Stadium",Athens,Greece
+2008,Manchester United,Chelsea,"1-1 (6-5 pens)","Ronaldo","Lampard",26,45,"Luzhniki Stadium",Moscow,Russia
+2009,Barcelona,Manchester United,2-0,"Eto'o; Messi","",10;70,"","Stadio Olimpico",Rome,Italy
+2010,Inter,Bayern Munich,2-0,"Diego Milito; Diego Milito","",35;70,"","Santiago Bernabéu",Madrid,Spain
+2011,Barcelona,Manchester United,3-1,"Pedro; Messi; Villa","Rooney",27;54;69,34,"Wembley Stadium",London,England
+2012,Chelsea,Bayern Munich,"1-1 (4-3 pens)","Drogba","Müller",88,83,"Allianz Arena",Munich,Germany
+2013,Bayern Munich,Borussia Dortmund,2-1,"Mandžukić; Robben","Gündoğan",60;89,68,"Wembley Stadium",London,England
+2014,Real Madrid,Atlético Madrid,4-1,"Ramos; Bale; Marcelo; Ronaldo","Godín",93;110;118;120,36,"Estádio da Luz",Lisbon,Portugal
+2015,Barcelona,Juventus,3-1,"Rakitic; Suárez; Neymar","Morata",4;68;97,55,"Olympiastadion",Berlin,Germany
+2016,Real Madrid,Atlético Madrid,"1-1 (5-3 pens)","Ramos","Carrasco",15,79,"San Siro",Milan,Italy
+2017,Real Madrid,Juventus,4-1,"Ronaldo; Casemiro; Ronaldo; Asensio","Mandžukić",20;61;64;90,27,"Millennium Stadium",Cardiff,Wales
+2018,Real Madrid,Liverpool,3-1,"Benzema; Bale; Bale","Mané",51;64;83,55,"NSC Olimpiyskiy Stadium",Kyiv,Ukraine
+2019,Liverpool,Tottenham,2-0,"Salah; Origi","",2;87,"","Metropolitano Stadium",Madrid,Spain
+2020,Bayern Munich,Paris Saint-Germain,1-0,"Coman","",59,"","Estádio da Luz",Lisbon,Portugal
+2021,Chelsea,Manchester City,1-0,"Havertz","",42,"","Estádio do Dragão",Porto,Portugal
+2022,Real Madrid,Liverpool,1-0,"Vinícius Júnior","",59,"","Stade de France",Saint-Denis,France
+2023,Manchester City,Inter,1-0,"Rodri","",68,"","Atatürk Olympic Stadium",Istanbul,Turkey
+2024,Real Madrid,Borussia Dortmund,2-0,"Carvajal; Vinícius Júnior","",74;83,"","Wembley Stadium",London,England
+2025,Paris Saint-Germain,Inter,5-0,"Hakimi; Doué; Doué; Kvaratskhelia; Mayulu","",15;28;49;67;84,"Allianz Arena",Munich,Germany
