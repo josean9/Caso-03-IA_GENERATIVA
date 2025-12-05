@@ -1,3 +1,6 @@
+# SQL dump files
+db_database/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -8,6 +11,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.*sqlite3
 build/
 develop-eggs/
 dist/
